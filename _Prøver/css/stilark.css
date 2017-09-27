@@ -1,12 +1,32 @@
+
+
+
 body {
 
     background-color: #7accc8;
 
     font-family: sans-serif;
 
+    width: 900px;
+
+    margin: auto;
+
+    padding: 50px;
+
+}
 
 
+h1 {
+    color: #4aaaa5;
+    font-size: 75px;
+    margin-top: 0;
+}
 
+h2 {
+    color: #a3d39c;
+    font-size: 18px;
+}
 
-
+h3 {
+    color: #eb7260;
 }
